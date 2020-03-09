@@ -1,2 +1,2 @@
 # VMwareKernelPath-manjaro
-1.sudo sh VMware-KernelPath.sh
+sudo sh VMware-KernelPath.sh
